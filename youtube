@@ -2060,15 +2060,7 @@
   {
     "name": "TV NOVELAS",
     "samples": [
-      
-	  {
-        "name": "VECINOS",
-        "uri": "PWtr7QiO2MzazOhgQASYds3k4K5hbE/5Qt8JwND6dBRiuuVkU8kautuakRcsk0E789VFbvsb5waL6Gp6Fv8G1Lz7TQTFholk97sxI1FLH68=",
-        "icono": "https://tecolotito.elsiglodetorreon.com.mx/i/2022/06/1570741.jpeg",
-         "drm_scheme": "widevine",
-          "drm_license_url": "QJeH5gHkwG0YEPqetRJ+VDpo4p9Ok77FEWrg4S9YuCo989MuxgjYcm/KtWCQNNKzbGaO0Vx6YreV/pADkW0ENA=="
 
-      },
 {
         "name": "TL NOVELAS",
         "uri": "rapRS/zDEVsI2UvJ+JfYDAMzSZo2zJaUC1Ru5uXjEjDuk8azEpYo4ebZGXfVYIRzcZn1Ip5ahIuD8lE65d2DGg==",
