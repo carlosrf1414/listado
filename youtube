@@ -2065,8 +2065,8 @@
         "name": "VECINOS",
         "uri": "PWtr7QiO2MzazOhgQASYds3k4K5hbE/5Qt8JwND6dBRiuuVkU8kautuakRcsk0E789VFbvsb5waL6Gp6Fv8G1Lz7TQTFholk97sxI1FLH68=",
         "icono": "https://www.apple.com/newsroom/images/tile-images/Apple-introduces-apple-tv-plus-03252019.jpg.landing-big_2x.jpg",
-         "drm_scheme": "clearkey",
-          "drm_license_url": "UmWTMGsZh8D5L/Fm6nJXrvD2Y7myxx6cjaadeHAWwOlVdZS2lnbkc91RRxCKQ4YDrErMHD38nhCPIeVFF2cRLkUKNKep6zWahBzDzvDP1oqb3XW+CM/G8sObTS2PDsYskL7Nreq2j0BnWovY6FyOeCiO5/VRIUOMyyH9HN6cAKtEy9PzCDyRCOrZp66dwVcbCCKV4bGYBdXrUjdJl9Ty9A=="
+         "drm_scheme": "widevine",
+          "drm_license_url": "Q56IqA7L7voiWII/TLuDsVWKxpf6FMxOgldk3SGRiXOIQWIRMBTTXqglwzexH29lbGaO0Vx6YreV/pADkW0ENA=="
 
       },
 {
