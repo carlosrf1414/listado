@@ -13,22 +13,6 @@
         "name": "APLLE TV",
         "uri": "pw9L5j5K3sg/M1NEiZAsqQfczgnJY3M+hF4defMdgLi+wgcse93n9hwpXPve/xl31ZRtU/EQFT/6kkxMRgyRfg==",
         "icono": "https://www.apple.com/newsroom/images/tile-images/Apple-introduces-apple-tv-plus-03252019.jpg.landing-big_2x.jpg"
-      },
-	  {
-        "name": "test",
-        "uri": "b+ohzNktq7/1yo5SvOBJR4AagqZZLpd3TSFB1wdV6wizRge/oIoOKDqqp1jPXwPLf8Eh6IUSJKacKsiMWy9vc7OTX9lK6qMVTUS7Z3xUIeA=",
-        "icono": "https://www.apple.com/newsroom/images/tile-images/Apple-introduces-apple-tv-plus-03252019.jpg.landing-big_2x.jpg",
-         "drm_scheme": "clearkey",
-          "drm_license_url": "UmWTMGsZh8D5L/Fm6nJXrvD2Y7myxx6cjaadeHAWwOlVdZS2lnbkc91RRxCKQ4YDrErMHD38nhCPIeVFF2cRLgkuu3+yS495bF2A52b9CdPXIFlb2EI9Y8yramYT0xzovHbGxA+BIRVdaBLoj8y1pM5aecRJ2EL6J27cyWlF3P0ylX8O8NDhveKztsRmEmOwJ3C8F1alkkuJZCva9pgLkA=="
-
-      },
-{
-        "name": "test",
-        "uri": "CDta61/el7Yzvwad6P6/l3c9KdLgFXEfYX8eX23fWJAt6ERqBb8vtC7rphg/wwMOD4cKn8BJiiP8Et3Rj4rJOMZ1/5hjm+vrsAwWwQSe6/Yv2J+nRMwp1dSl+0JxXkcHw/D2lHC9bwvWZiYEYa7n0JRQsI+5f2FrP8pIsiMVeUdBGk4APf50B0zhVEQSDIqeBvpsiu1yVeXVouCJVHfSEQ==",
-        "icono": "https://www.apple.com/newsroom/images/tile-images/Apple-introduces-apple-tv-plus-03252019.jpg.landing-big_2x.jpg",
-         "drm_scheme": "widevine",
-          "drm_license_url": "QJeH5gHkwG0YEPqetRJ+VGxBo4GbnYzAwqrKwijZT/8OgCgQZ0ICS6LWANPG+FpSkdLWVvPH4RjY+aBSubzApw=="
-
       }
 	  
     ]
