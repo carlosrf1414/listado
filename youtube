@@ -2425,9 +2425,9 @@
       },
       {
         "name": "TELEDOCE",
-        "uri": "tDyuxTCGzX7Iwcl5hhIgFNlN4bdfZdI+7dIFNKydUU53Se7cxRXPtgxPnk6qxkh5BwE9zsY/N3IZaC+jIcxnRQ==",
+        "uri": "NjgecL1nG8w9dPYRBs5Y6a6rP9DMaCivAv18BOsAGOOlLsLh6BmEr2G7esL+oE5B9ACjTTEiUbcLImkB6wOlu0QU9nsFuwNyATd2B9Qu2agqIwqUZmfcMAAqg+qMJYEE",
         "drm_scheme": "clearkey",
-        "drm_license_url": "UmWTMGsZh8D5L/Fm6nJXrvD2Y7myxx6cjaadeHAWwOlVdZS2lnbkc91RRxCKQ4YDrErMHD38nhCPIeVFF2cRLmZd+bPK6sZj9P0c4EIJeUgsACO7zsEGyGhQTw99ulCilZFHFO//ex8HZLXSmoUL0z8VQ75zgPMxZupS/Wm+3wWO2HBJO7EBT/GECwG+SPoi7LD7bkZcMQVnoe7ZmWZCSg==",
+        "drm_license_url": "UmWTMGsZh8D5L/Fm6nJXrvD2Y7myxx6cjaadeHAWwOlVdZS2lnbkc91RRxCKQ4YDrErMHD38nhCPIeVFF2cRLlpFjHtnGyNEOUc5F345+tu4rMvzbS33AsxEZSOe8OQirLdAs9aNYqx+VTDXuIj7ztA/JZ2vKWPyXjE+8gKchQ28A1w49lEgAvqJhtoZedahEafF5CNYoEvvvrrmZ0eqBg==",
         "icono": "https://www.foromedios.com/uploads/monthly_2022_06/large.Teledoce20042.0.png.79eefaf8d6f439fd4d1892a2125fd272.png"
       },
       {
@@ -2438,25 +2438,19 @@
         "icono": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Canal_5_Uruguay.png"
       },
       {
-        "name": "TV CIUDAD",
-        "uri": "NjgecL1nG8w9dPYRBs5Y6a6rP9DMaCivAv18BOsAGOOW1xUJ5Pdl2NxULp/07VVsjRM6Ct/0Pd+9Xe61lOxklfh2aDalKuE9WHOU/6z0+Imrljmg2/sDcNtU3GZKGBpM",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "WKZGmiXoMAb1gA2iVcYL0zej/ZpAphV9+6jgC0pJIfEgp6yO7mGXloitWW5d8tsa2EmPycaBwz1rFTbAh0z+ngAmFqIhe6AgFMIjn4OEG6HBcYjC60xY/cK0ERp6WN7NrlMb9OT5Y5eeLQtMZz6zKA==",
-        "icono": "https://montevideo.gub.uy/sites/default/files/styles/galeriaslideshowcontenido/public/biblioteca/tvciudad.png?itok=jUiNrl5Q"
-      },
-      {
-        "name": "VTV",
-        "uri": "NjgecL1nG8w9dPYRBs5Y6a6rP9DMaCivAv18BOsAGOPZz1o+LIaYdgRy5ie4fltWfBW6EWDM/jd4P2Z5z0jHA+f2c5w2Rm6TPA0aeAFIEds=",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "WKZGmiXoMAb1gA2iVcYL0w4D7dX+pzVJ0Reers5xhIQPVRK7CIk/4QdDvl2Nb88TsrbzaPdMjlnXRUHDHOrFgaR02hLNmLi/x59zePkKQgVy1Dz6TcRIqnJSjCGfdeuXJedW6lUSCqbr90AIe7NIdg==",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/1/16/Logo_VTV_nuevo.png"
-      },
-      {
         "name": "VTV PLUS",
-        "uri": "NjgecL1nG8w9dPYRBs5Y6a6rP9DMaCivAv18BOsAGOP+Qnh+3zZ48w9UDJKy7FizjRM6Ct/0Pd+9Xe61lOxklY+oni2OsjZU7nudsjag3qurljmg2/sDcNtU3GZKGBpM",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "WKZGmiXoMAb1gA2iVcYL0/fM1VohGH110JNOTp0L/ZpCthEBnuT+pQZ/JZmV3AqHgfkfCiyN1QmhuZgtXXI+U64dwV7TqCiaMGX18kIY4zW428n5LdNMrgfoKK7c/2V1zu+t5zWtHMWgNtSiHVrQ1g==",
+        "uri": "9yJtGVYW4lejRdZ/SOhXriml5XAds0IASZQJuaLMioAVFmxc5//+Lz881z4eiKtRmM7h2FroIAO38NH1z/OEsw==",
         "icono": "https://static.tvar.io/imagenes/vtvplus.png?"
+      },
+      {
+        "name": "LA TELE",
+        "uri": "9yJtGVYW4lejRdZ/SOhXriml5XAds0IASZQJuaLMioAVFmxc5//+Lz881z4eiKtR+otYjY0iRIMgc9n814RcNQ==",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Teledoce_2022.png/1200px-Teledoce_2022.png"
+      },
+      {
+        "name": "LATINA Y PAYSANDU",
+        "uri": "9yJtGVYW4lejRdZ/SOhXriml5XAds0IASZQJuaLMioAVFmxc5//+Lz881z4eiKtR9fGbnItnjo2e2Yos5hbSyA==",
+        "icono": "http://conectplus.com.ar:25461/Streamingtv/1bd97gg5sa/47881"
       }
     ]
   },
