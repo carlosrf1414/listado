@@ -87,96 +87,6 @@
     ]
   },
   {
-    "name": "CANALES 24/7",
-    "samples": [
-      {
-        "name": "Don Gato y su pandilla 24/7",
-        "uri": "6RJ9C/VX99b0slpDiKNdoVprxtkq7BfSTWvtaIHJtSMx9tvm4tayb35/K6/90ZnJj0J6IqUkmKuXLKU8sSehKA==",
-        "icono": "https://tiemporeal.media/wp-content/uploads/2022/09/don-gato-y-su-pandilla-1-960x738.png"
-      },
-      {
-        "name": "ALF 24/7",
-        "uri": "6RJ9C/VX99b0slpDiKNdoVprxtkq7BfSTWvtaIHJtSONTQ7dpYPi6/WUqQUdmIvGzw0z3XscGs/kyP6Aopa0ZQ==",
-        "icono": "https://pics.filmaffinity.com/ALF_Serie_de_TV-263075555-large.jpg"
-      },
-      {
-        "name": "Mi bella Genio 24/7",
-        "uri": "6RJ9C/VX99b0slpDiKNdoVprxtkq7BfSTWvtaIHJtSNw6dtL3SEnhIperRUQpq2Tj0J6IqUkmKuXLKU8sSehKA==",
-        "icono": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/W7ZZJMU72RHA5FMIS45WARB5ME.jpg"
-      },
-      {
-        "name": "La Familia Peluche 24/7",
-        "uri": "6RJ9C/VX99b0slpDiKNdoVprxtkq7BfSTWvtaIHJtSOAZTSJMiixDHhI/Wdk1J6Vzw0z3XscGs/kyP6Aopa0ZQ==",
-        "icono": "https://es.web.img3.acsta.net/pictures/14/07/07/11/22/206842.jpg"
-      },
-      {
-        "name": "Digimon 24/77",
-        "uri": "6RJ9C/VX99b0slpDiKNdoVprxtkq7BfSTWvtaIHJtSPEwlP5Njp6SaBHIqE7qz3jzw0z3XscGs/kyP6Aopa0ZQ==",
-        "icono": "https://www.pngall.com/wp-content/uploads/2/Digimon-Logo-PNG-Free-Download.png"
-      },
-      {
-        "name": "CHAVO 24/7",
-        "uri": "6RJ9C/VX99b0slpDiKNdoVprxtkq7BfSTWvtaIHJtSM7N+xHcgK5IiXErdhmJzFEzw0z3XscGs/kyP6Aopa0ZQ==",
-        "icono": "https://m.media-amazon.com/images/M/MV5BZjM3ZmY2YzAtZjY1My00OTJjLWI5M2QtYmYxNDQ1OTBkY2E2XkEyXkFqcGdeQXVyMzQxNzU3NA@@._V1_FMjpg_UX1000_.jpg"
-      },
-      {
-        "name": "El Chapulin Colorado 24/7",
-        "uri": "6RJ9C/VX99b0slpDiKNdoVprxtkq7BfSTWvtaIHJtSMG4TRAH/KobZ8LYuLdaj0mzw0z3XscGs/kyP6Aopa0ZQ==",
-        "icono": "https://m.media-amazon.com/images/M/MV5BMTc0M2YwNDQtNjIzNi00NjU4LThhZDgtM2VkODYxNDgzM2Q0XkEyXkFqcGdeQXVyOTA1NTMzNjU@._V1_FMjpg_UX1000_.jpg"
-      },
-      {
-        "name": "South Park 24/7",
-        "uri": "6RJ9C/VX99b0slpDiKNdoVprxtkq7BfSTWvtaIHJtSNEnLMT4pqVIL2IkAhsGgjszw0z3XscGs/kyP6Aopa0ZQ==",
-        "icono": "https://ismorbo.com/wp-content/uploads/2021/03/south-park.jpg"
-      },
-      {
-        "name": "FUTURAMA 24/7",
-        "uri": "6RJ9C/VX99b0slpDiKNdoVprxtkq7BfSTWvtaIHJtSP+5KdtLlsXHiHJMTv5jcbrzw0z3XscGs/kyP6Aopa0ZQ==",
-        "icono": "https://m.media-amazon.com/images/M/MV5BYWI3MTJkN2UtMTU0Zi00ZjE2LThjMWEtYmQ5YmFiZmU1N2JhXkEyXkFqcGdeQXVyMTMzOTQyOTk1._V1_FMjpg_UX1000_.jpg"
-      },
-      {
-        "name": "Dragon Ball Super 24/7",
-        "uri": "6RJ9C/VX99b0slpDiKNdoVprxtkq7BfSTWvtaIHJtSPmuAIF1I79ose2ZXUITn20zw0z3XscGs/kyP6Aopa0ZQ==",
-        "icono": "https://colormake.com/wp-content/uploads/2014/03/DB_z.png"
-      },
-      {
-        "name": "TERROR 24/7",
-        "uri": "6RJ9C/VX99b0slpDiKNdoVprxtkq7BfSTWvtaIHJtSNTudnFdW1a6EL+hY3qA7l9zw0z3XscGs/kyP6Aopa0ZQ==",
-        "icono": "https://w7.pngwing.com/pngs/876/489/png-transparent-horror-youtube-horror-text-logo-terror.png"
-      },
-      {
-        "name": "Los Simpson 24/7",
-        "uri": "6RJ9C/VX99b0slpDiKNdoVprxtkq7BfSTWvtaIHJtSM600vdJayRhuoVaXwgHq0Yzw0z3XscGs/kyP6Aopa0ZQ==",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/The_Simpsons_Logo.svg/2560px-The_Simpsons_Logo.svg.png"
-      },
-      {
-        "name": "Ben 10 24/7",
-        "uri": "6RJ9C/VX99b0slpDiKNdoVprxtkq7BfSTWvtaIHJtSOlW1fjfMKeN0P1fgILWqZMzw0z3XscGs/kyP6Aopa0ZQ==",
-        "icono": "https://seeklogo.com/images/B/ben10-logo-09DF7460F7-seeklogo.com.png"
-      },
-      {
-        "name": "Chespirito 24/7",
-        "uri": "6RJ9C/VX99b0slpDiKNdoVprxtkq7BfSTWvtaIHJtSOFuCpHwTL7HqD1artSnLnDzw0z3XscGs/kyP6Aopa0ZQ==",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/El_Chapul%C3%ADn_Colorado_logo.svg/1200px-El_Chapul%C3%ADn_Colorado_logo.svg.png"
-      },
-      {
-        "name": "Dinosaurios 24/7",
-        "uri": "6RJ9C/VX99b0slpDiKNdoVprxtkq7BfSTWvtaIHJtSNGjVIvR7QdoWJnymlteX1rzw0z3XscGs/kyP6Aopa0ZQ==",
-        "icono": "https://previews.123rf.com/images/kovalchuk130195/kovalchuk1301951804/kovalchuk130195180400073/99556870-logo-dinosaurios-mundo-ilustraci%C3%B3n-vectorial.jpg"
-      },
-      {
-        "name": "Coyote Y Corre Caminos 24/7",
-        "uri": "6RJ9C/VX99b0slpDiKNdoVprxtkq7BfSTWvtaIHJtSNUfkRoTDfwoN6/ZQKQEgrgzw0z3XscGs/kyP6Aopa0ZQ==",
-        "icono": "https://1.bp.blogspot.com/-RudlnTJAoAs/Uc876zJeP6I/AAAAAAAABdM/wiSX_6EvGqg/s1600/coyote_y_correcaminos_1a.png"
-      },
-      {
-        "name": "El Principe del rap 24/7",
-        "uri": "6RJ9C/VX99b0slpDiKNdoVprxtkq7BfSTWvtaIHJtSP1qFxjykxbxzlKlrOUNH0tzw0z3XscGs/kyP6Aopa0ZQ==",
-        "icono": "https://www.enter.co/wp-content/uploads/2017/09/Captura-de-pantalla-2017-09-29-a-las-12.11.22-p.m.-1024x768.jpg"
-      }
-    ]
-  },
-  {
     "name": "CINE Y SERIES",
     "samples": [
       {
@@ -1575,26 +1485,6 @@
         "name": "TELEFE DEPORTES",
         "uri": "ELi+uLhkitO8c0gzCEnFe3RsgU3OjE7UuTQaB8ypd5pWNBMz3B4WjAutaEkoQHca1yUsz68ANHAB9shPOzSkcasj1mlcn85rZT8xq246UpQ=",
         "icono": "https://archive.org/download/picsart-23-08-09-18-59-40-494/Picsart_23-08-09_09-22-09-469.png"
-      },
-	  {
-        "name": "Movistar F1",
-        "uri": "6RJ9C/VX99b0slpDiKNdoVprxtkq7BfSTWvtaIHJtSNuF39Sgh5YzmtzkmL9uPVfzw0z3XscGs/kyP6Aopa0ZQ==",
-        "icono": "https://static.motor.es/fotos-noticias/2018/01/movistar-renueva-contrato-emision-f1-201842591_1.jpg"
-      },
-      {
-        "name": "AFICIONADOS",
-        "uri": "6RJ9C/VX99b0slpDiKNdoVprxtkq7BfSTWvtaIHJtSM082+duUX+R61IurS15GhRj0J6IqUkmKuXLKU8sSehKA==",
-        "icono": "https://logowik.com/content/uploads/images/afizzionados-tv8326.logowik.com.webp"
-      },
-      {
-        "name": "TUDN USA",
-        "uri": "6RJ9C/VX99b0slpDiKNdoVprxtkq7BfSTWvtaIHJtSOqbYGCIdxmY0VoaXM7wLWwzw0z3XscGs/kyP6Aopa0ZQ==",
-        "icono": "https://logowik.com/content/uploads/images/tudn-tv7860.logowik.com.webp"
-      },
-      {
-        "name": "TUDN XTRA",
-        "uri": "6RJ9C/VX99b0slpDiKNdoVprxtkq7BfSTWvtaIHJtSO4JaZE+dq1STKnj9JHhBXHj0J6IqUkmKuXLKU8sSehKA==",
-        "icono": "https://logowik.com/content/uploads/images/tudn-tv7860.logowik.com.webp"
       },
       {
         "name": "ESPN PREMIUM",
