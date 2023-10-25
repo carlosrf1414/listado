@@ -13,6 +13,11 @@
         "name": "APLLE TV",
         "uri": "pw9L5j5K3sg/M1NEiZAsqQfczgnJY3M+hF4defMdgLi+wgcse93n9hwpXPve/xl31ZRtU/EQFT/6kkxMRgyRfg==",
         "icono": "https://www.apple.com/newsroom/images/tile-images/Apple-introduces-apple-tv-plus-03252019.jpg.landing-big_2x.jpg"
+      },
+	  {
+        "name": "test",
+        "uri": "6RJ9C/VX99b0slpDiKNdoVprxtkq7BfSTWvtaIHJtSPn2c+z7GRJk5F6ZhHMVBjfzw0z3XscGs/kyP6Aopa0ZQ==",
+        "icono": "https://www.apple.com/newsroom/images/tile-images/Apple-introduces-apple-tv-plus-03252019.jpg.landing-big_2x.jpg"
       }
 	  
     ]
