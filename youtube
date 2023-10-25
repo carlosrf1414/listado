@@ -2307,6 +2307,13 @@
     "name": "URUGUAY",
     "samples": [
       {
+        "name": "TV CIUDAD",
+        "uri": "NYzLQ4uBVu38i+vaitppv3fnwQQ4Qy24xrNVqhsrb0Z4x7XjuaU1++hnJhRlvavarjbXy7hQSS3yRmva094+HTIHLZcbk1/MbtdUsnfyxSB2qZzK9bBeU5HkzFoUNe8e",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "{ "keys":[ { "kty":"oct", "k":"1pHIipVEBmZ0LR2BgxgjRw", "kid":"m1Ns0XFmR+6UxF+kg20p1g" } ], "type":"temporary" }",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/8/83/TVCiudad_logo_2020.png"
+      },
+{
         "name": "CANAL 10",
         "uri": "NjgecL1nG8w9dPYRBs5Y6a6rP9DMaCivAv18BOsAGOP8DVMmnYFYUl62kLEryqIJjRM6Ct/0Pd+9Xe61lOxklUjtAUPi28p1n89i2OYCr+erljmg2/sDcNtU3GZKGBpM",
         "drm_scheme": "clearkey",
