@@ -514,7 +514,9 @@
       {
         "name": "SURTV OPC 2",
         "uri": "NjgecL1nG8w9dPYRBs5Y6a6rP9DMaCivAv18BOsAGOP1euG1nAXCRlzBND8asbrru8X0H5+ONO06afC36gQG4Hd2+EtUEn5PURDtaj4uNG4=",
-        "icono": "https://pbs.twimg.com/profile_images/804016687108521985/L4G3JMvc_400x400.jpg"
+        "icono": "https://pbs.twimg.com/profile_images/804016687108521985/L4G3JMvc_400x400.jpg",
+	"drm_scheme": "clearkey",
+        "drm_license_url": "UmWTMGsZh8D5L/Fm6nJXrvD2Y7myxx6cjaadeHAWwOlVdZS2lnbkc91RRxCKQ4YDrErMHD38nhCPIeVFF2cRLs+nt5L2MEJEEIzizQWun3tAzzZMaBVMTUZfiJEeVqFqk4p80PbLiOS2pApOjUjHlpH8OrUNJKs3EBPiQRHB2n212n6WJGGxMYMNtnLZRezCggr0+29y4uHxKmCNZx2H6Q=="
       },
       {
         "name": "TELEFUTURO",
