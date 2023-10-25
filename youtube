@@ -2307,10 +2307,17 @@
     "name": "URUGUAY",
     "samples": [
       {
+        "name": "VTV",
+        "uri": "NYzLQ4uBVu38i+vaitppv3fnwQQ4Qy24xrNVqhsrb0ZA0vcPiEgJB3eCzxhd7fGrGg7svFbwVq2gcSVJz5ZUu8jchK7Ns5+AUUbTqO/imEXk4O0YuMjwp6RziOD5EtSO",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "UmWTMGsZh8D5L/Fm6nJXrvD2Y7myxx6cjaadeHAWwOlVdZS2lnbkc91RRxCKQ4YDrErMHD38nhCPIeVFF2cRLrjyWB3X12Lw6P5OxQ2EFmk+TI4qBD6TjhU23J+9bPflLrbBq7WRJzVYBLV2CS0pCsLAH5eLDPo/vNxwbusSboHXNLf/fgBVCPFByW3+6vzZYPvMx3T2L1PLaeUJX0a/YA==",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_VTV_nuevo.png/800px-Logo_VTV_nuevo.png"
+      },
+{
         "name": "TV CIUDAD",
         "uri": "NYzLQ4uBVu38i+vaitppv3fnwQQ4Qy24xrNVqhsrb0Z4x7XjuaU1++hnJhRlvavarjbXy7hQSS3yRmva094+HTIHLZcbk1/MbtdUsnfyxSB2qZzK9bBeU5HkzFoUNe8e",
         "drm_scheme": "clearkey",
-        "drm_license_url": "/j90f/On02j4PvhWCRC03eZ+sH1DeGQkYaACAhxMuc0cdb0vijewbS+aFg1HTLsMiwyNi9rhSXGNCM4f3lqfzl+nmcoeIjr0hzKKA5ShkoAxFoO8CKHCBkX5zCgUCp+hT9e0FY0aRE6hOzProYocHeTg7Ri4yPCnpHOI4PkS1I4=",
+        "drm_license_url": "UmWTMGsZh8D5L/Fm6nJXrvD2Y7myxx6cjaadeHAWwOlVdZS2lnbkc91RRxCKQ4YDrErMHD38nhCPIeVFF2cRLq1022j6O/p73/sKXfAfLp+G4kvaT2YDJUhUkZwHBcC0j83QvNJ0fFpdJGNaFuxaqtBXu4U0nkbI4jF3IbGhPJfwwpvykg72xEzcYHE4elsCVnheMBJXI6S7+eLDN+Q0Sg==",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/8/83/TVCiudad_logo_2020.png"
       },
 {
