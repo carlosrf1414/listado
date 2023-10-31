@@ -45,6 +45,13 @@
         "name": "TIGO GUATEMALA",
         "uri": "FzHzLkZn918649DYUjiH7Kz2idh+3MaZPMsNSPAtE6CNeA728yrmxBBZ8QiP/y8vIzCrVojVRAQ7i7ov5YvTy0r4QHIiO1bnGpl+JJJ5xxI=",
         "icono": "https://i.postimg.cc/QxXn43pS/ver-tigo-sports-en-vivo.jpg"
+      },
+ {
+        "name": "TEST",
+        "uri": "F670ILEoXvg8p0kGoR/4YXaDBoC3PEOKPBNBTbPX/vda0rN5NEESxVa1jCde+Ur6IxZsM0DIuHDVHOYVJ3mAgsr2gx8nxbQpEtZ113XbTTN4l9xOg4XfDWaaAcXnh/6Of19xTeUeQg/9k1zGMTYOiuTg7Ri4yPCnpHOI4PkS1I4=",
+        "drm_scheme": "widevine",
+        "drm_license_url": "jasfG5V4TRt98iQ+cvoP5rFUWlMZMfhLY2AH2frjEKKlQlBu7w8IFvKr3mKgddMRXaTeEx712FCVHsGm4lHftBkP1iLrNse9XbPCKtp0BE/oACfQGENltv8VeRQTw45cLjBBDUWwdh/ubf1mP4E61A==",
+        "icono": "https://i.postimg.cc/kXRXnQvq/Gen-en-vivo.jpg"
       }
     ]
   },
