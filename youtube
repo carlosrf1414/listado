@@ -18,27 +18,25 @@
     ]
   },
   {
-    "name": "TIGO SPORTS PROBAR TODAS LAS OPCIONES",
+    "name": "TIGO SPORTS PROBAR TODAS LAS OPCIONES ANTES DE HACER UN RECLAMO",
     "samples": [
-      
-	  {
-        "name": "EVENTOS",
-        "uri": "6RJ9C/VX99b0slpDiKNdoVprxtkq7BfSTWvtaIHJtSOoQj0LwCB9d/tqfqUEaVETOsv9Uhw23xGJCL6TU1Vkvg==",
+       {
+        "name": "TIGO 4",
+        "uri": "6RJ9C/VX99b0slpDiKNdoVprxtkq7BfSTWvtaIHJtSOoQj0LwCB9d/tqfqUEaVETe+dBzllaQc6DFK/FCf1Fxg==",
         "icono": "https://i.postimg.cc/QxXn43pS/ver-tigo-sports-en-vivo.jpg"
       },
-{
-        "name": "EVENTOS",
-        "uri": "6RJ9C/VX99b0slpDiKNdoVprxtkq7BfSTWvtaIHJtSO6IDXRchyvn88i2KyJj9DFb3VAeLXezWYBRNpFYF5B/g==",
+ 	{
+        "name": "TIGO 3",
+        "uri": "6RJ9C/VX99b0slpDiKNdoVprxtkq7BfSTWvtaIHJtSOoQj0LwCB9d/tqfqUEaVETbyXqJElOTd4JGj2se/+bmg==",
+        "icono": "https://i.postimg.cc/QxXn43pS/ver-tigo-sports-en-vivo.jpg"
+      }, {
+        "name": "TIGO 2",
+        "uri": "6RJ9C/VX99b0slpDiKNdoVprxtkq7BfSTWvtaIHJtSOoQj0LwCB9d/tqfqUEaVETcqh1AyLcvXgKBLCwrD9Vmw==",
         "icono": "https://i.postimg.cc/QxXn43pS/ver-tigo-sports-en-vivo.jpg"
       },
-	  {
-        "name": "EVENTOS 0",
-        "uri": "s+ucsWBFV/huaJ58NP6y7efKhkc8mhCIvSCcVnKuPKeuJo0bCl/E47gkQszdLVO9+TK15Xn+kKJmDPEG8f9OBA==",
-        "icono": "https://i.postimg.cc/QxXn43pS/ver-tigo-sports-en-vivo.jpg"
-      },
-      {
-        "name": "EVENTOS 4 AMISTOSOS Y FEMENINO",
-        "uri": "6RJ9C/VX99b0slpDiKNdoVprxtkq7BfSTWvtaIHJtSNt97yTN1wUqFaGo6S8a4Ny5sKEO17KMq2Hr64jWtB9Lw==",
+	{
+        "name": "TIGO 0",
+        "uri": "6RJ9C/VX99b0slpDiKNdoVprxtkq7BfSTWvtaIHJtSOoQj0LwCB9d/tqfqUEaVETX9ini0tAytA45eSM8IG97Q==",
         "icono": "https://i.postimg.cc/QxXn43pS/ver-tigo-sports-en-vivo.jpg"
       },
       {
