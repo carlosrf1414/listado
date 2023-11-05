@@ -2310,9 +2310,10 @@
   {
     "name": "URUGUAY",
     "samples": [
-      {
+
+{
         "name": "VTV",
-        "uri": "NYzLQ4uBVu38i+vaitppv3fnwQQ4Qy24xrNVqhsrb0ZA0vcPiEgJB3eCzxhd7fGrGg7svFbwVq2gcSVJz5ZUu8jchK7Ns5+AUUbTqO/imEXk4O0YuMjwp6RziOD5EtSO",
+        "uri": "NjgecL1nG8w9dPYRBs5Y6a6rP9DMaCivAv18BOsAGOPZz1o+LIaYdgRy5ie4fltW/nAWvwnAWdbPw8HrMG23yCiS8rFpmB5FOvBhGlYYEWI=",
         "drm_scheme": "clearkey",
         "drm_license_url": "UmWTMGsZh8D5L/Fm6nJXrvD2Y7myxx6cjaadeHAWwOlVdZS2lnbkc91RRxCKQ4YDrErMHD38nhCPIeVFF2cRLrjyWB3X12Lw6P5OxQ2EFmk+TI4qBD6TjhU23J+9bPflLrbBq7WRJzVYBLV2CS0pCsLAH5eLDPo/vNxwbusSboHXNLf/fgBVCPFByW3+6vzZYPvMx3T2L1PLaeUJX0a/YA==",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_VTV_nuevo.png/800px-Logo_VTV_nuevo.png"
