@@ -2319,6 +2319,33 @@
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_VTV_nuevo.png/800px-Logo_VTV_nuevo.png"
       },
 {
+        "name": "VTV OpcTVConect",
+        "uri": "9yJtGVYW4lejRdZ/SOhXruLtPoCF7CahdIcvKWbNltE3Ty1SszP2otTL6YzyCgAf+n7jdMJxUrN0tHzQFfnQtA==",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_VTV_nuevo.png/800px-Logo_VTV_nuevo.png"
+      },
+{
+        "name": "VTV OpcTVConect 2",
+        "uri": "9yJtGVYW4lejRdZ/SOhXrmEJfX2tT923V0YeySgS/I5LztYYF5+IG3Sbf9S3nxLxlZE4dn/yMj35bZZbhcl8Hw==",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_VTV_nuevo.png/800px-Logo_VTV_nuevo.png"
+      },
+{
+        "name": "VTV PLUS",
+        "uri": "NjgecL1nG8w9dPYRBs5Y6a6rP9DMaCivAv18BOsAGOP+Qnh+3zZ48w9UDJKy7FizjRM6Ct/0Pd+9Xe61lOxklY+oni2OsjZU7nudsjag3qurljmg2/sDcNtU3GZKGBpM",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "UmWTMGsZh8D5L/Fm6nJXrvD2Y7myxx6cjaadeHAWwOlVdZS2lnbkc91RRxCKQ4YDrErMHD38nhCPIeVFF2cRLkPoeyvS2NY5JF8UR9CGULHaxLwHf+6cYxhtHZS+GEsTi62pWIWOpOfpqyDpqsiREpYgbf+6oPaXDFHfsv4iG6JiYDPT7etU8EF2MBwrxuX+5vMhMzTykEl0aW+gbHUn9A==",
+        "icono": "https://static.tvar.io/imagenes/vtvplus.png?"
+      },
+{
+        "name": "VTV PLUS 2",
+        "uri": "9yJtGVYW4lejRdZ/SOhXriml5XAds0IASZQJuaLMioAVFmxc5//+Lz881z4eiKtRmM7h2FroIAO38NH1z/OEsw==",
+        "icono": "https://static.tvar.io/imagenes/vtvplus.png?"
+      },
+{
+        "name": "VTV PLUS 3",
+        "uri": "9yJtGVYW4lejRdZ/SOhXrpeXqh1ja5RCF38dm93dpTsSYHshZxI78jDuu7xzoeZuxBScS7AlmvjxQ7SnVM1UsA==",
+        "icono": "https://static.tvar.io/imagenes/vtvplus.png?"
+      },
+{
         "name": "TV CIUDAD",
         "uri": "NYzLQ4uBVu38i+vaitppv3fnwQQ4Qy24xrNVqhsrb0Z4x7XjuaU1++hnJhRlvavarjbXy7hQSS3yRmva094+HTIHLZcbk1/MbtdUsnfyxSB2qZzK9bBeU5HkzFoUNe8e",
         "drm_scheme": "clearkey",
