@@ -1990,6 +1990,16 @@
                 "uri": "pw9L5j5K3sg/M1NEiZAsqQfczgnJY3M+hF4defMdgLi+wgcse93n9hwpXPve/xl3j9KKgz9lWLGcUf6wdKxoYQ==",
                 "icono": "https://www.edigitalagency.com.au/wp-content/uploads/ESPN-logo-png.png"
             },
+{
+                "name": "BAND NEWS HD",
+                "uri": "pw9L5j5K3sg/M1NEiZAsqQfczgnJY3M+hF4defMdgLi+wgcse93n9hwpXPve/xl3K1hCisREd9aCExzbC7K9yg==",
+                "icono": "https://e7.pngegg.com/pngimages/20/425/png-clipart-bandnews-tv-brazil-bandnews-fm-band-television-blue.png"
+            },
+{
+                "name": "BAND RJ HD",
+                "uri": "pw9L5j5K3sg/M1NEiZAsqQfczgnJY3M+hF4defMdgLi+wgcse93n9hwpXPve/xl3RT+B4JnlWj9Rp31mmIj66A==",
+                "icono": "https://pbs.twimg.com/profile_images/809476746663907328/DQiQGpWz_400x400.jpg"
+            },
             {
                 "name": "ESPN 2",
                 "uri": "pw9L5j5K3sg/M1NEiZAsqQfczgnJY3M+hF4defMdgLi+wgcse93n9hwpXPve/xl3urxojrCnGyAMeAEqTF66SQ==",
@@ -2319,6 +2329,13 @@
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_VTV_nuevo.png/800px-Logo_VTV_nuevo.png"
       },
 {
+        "name": "TNU",
+        "uri": "NjgecL1nG8w9dPYRBs5Y6a6rP9DMaCivAv18BOsAGOPYqjHYKPhk+ISYPe64XeV2Gt2PYU9xw69qQD0I+ToCaE667y4gsB1OPBLRHRsve0o1JKhLB7xijzhrl9EnfOgG",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "UmWTMGsZh8D5L/Fm6nJXrvD2Y7myxx6cjaadeHAWwOlVdZS2lnbkc91RRxCKQ4YDrErMHD38nhCPIeVFF2cRLlvu2chxCMHdSg0PPSqyLeuVuFAg9b6HKnSIXVBO6sflXBw0ma84+RrW+Xz+SI2bMns7NuaK5keU4yjjQ27CEjTXoOvow+ja6C+2/xoDhj95yx5BWf4MGeXVPgYAZUxH6Q==",
+        "icono": "https://i.ibb.co/S3j0Kw5/televisionnacionaluruguay-500x500-300x300.jpg"
+      },
+{
         "name": "VTV OpcTVConect",
         "uri": "9yJtGVYW4lejRdZ/SOhXruLtPoCF7CahdIcvKWbNltE3Ty1SszP2otTL6YzyCgAf+n7jdMJxUrN0tHzQFfnQtA==",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_VTV_nuevo.png/800px-Logo_VTV_nuevo.png"
@@ -2350,7 +2367,7 @@
         "uri": "NYzLQ4uBVu38i+vaitppv3fnwQQ4Qy24xrNVqhsrb0Z4x7XjuaU1++hnJhRlvavarjbXy7hQSS3yRmva094+HTIHLZcbk1/MbtdUsnfyxSB2qZzK9bBeU5HkzFoUNe8e",
         "drm_scheme": "clearkey",
         "drm_license_url": "UmWTMGsZh8D5L/Fm6nJXrvD2Y7myxx6cjaadeHAWwOlVdZS2lnbkc91RRxCKQ4YDrErMHD38nhCPIeVFF2cRLq1022j6O/p73/sKXfAfLp+G4kvaT2YDJUhUkZwHBcC0j83QvNJ0fFpdJGNaFuxaqtBXu4U0nkbI4jF3IbGhPJfwwpvykg72xEzcYHE4elsCVnheMBJXI6S7+eLDN+Q0Sg==",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/8/83/TVCiudad_logo_2020.png"
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNIO3z-hmyjB-O59bLw9YO8WUPJX7eIFFyPJ6lMOVaGklnMlICd3IAX3q8U8wUraXNpVE&usqp=CAU"
       },
 {
         "name": "CANAL 10",
