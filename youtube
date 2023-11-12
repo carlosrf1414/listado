@@ -33,7 +33,7 @@
       },
 {
         "name": "TIGO",
-        "uri": "6RJ9C/VX99b0slpDiKNdoVprxtkq7BfSTWvtaIHJtSONc4boBGqrDp5B3rBzhQcHPE3NJ3JKF4N+LLqFNwLN9IfpqjkwaujDPJbysK1D9AU=",
+        "uri": "6RJ9C/VX99b0slpDiKNdoVprxtkq7BfSTWvtaIHJtSONc4boBGqrDp5B3rBzhQcHPE3NJ3JKF4N+LLqFNwLN9Lmk6YIyZ6aK1NKV+xIMV44=",
         "icono": "https://i.postimg.cc/QxXn43pS/ver-tigo-sports-en-vivo.jpg"
       },
       {
@@ -1496,15 +1496,20 @@
         "icono": "https://i.postimg.cc/02BdYRZz/ver-espn-premium-en-vivo.jpg"
       },
 	  {
-        "name": "ESPN",
+        "name": "ESPN 1",
         "uri": "/5dipu2IS8hb2UVfHVWGlFWpyo+ezmFNCu/nvhtNmrY5mxAI512efY1F6z34YPxDeNEZbQpq4fz0L0wMZkoZ/qSBCVrfHNf91m3VhU1vebrpeD+KeiYugq+ORWZUogNW",
         "icono": "https://i.postimg.cc/fT4HQq5q/ESPN.png"
       },
       {
-        "name": "ESPN OPC 2",
+        "name": "ESPN 1 OPC 2",
         "uri": "Ki1HFHKz43r9NxMDnQM8BGXXKWCPXiJB6Dr/WtM3SaO85OGOTB/MwoxTYgp7C8sU9ACjTTEiUbcLImkB6wOlu4TcWf2aSAT8Gu2iVZyMmvk=",
         "drm_scheme": "clearkey",
         "drm_license_url": "UmWTMGsZh8D5L/Fm6nJXrvD2Y7myxx6cjaadeHAWwOlVdZS2lnbkc91RRxCKQ4YDrErMHD38nhCPIeVFF2cRLvNWOhbQRQgy4o/DJJkxyV9xbVz/fXx8p0XPHNB/X0kudZiTfAa0CRJspJYG/KRqlfBuNrsam3yOII7uWXMd1jn7/hj7itQOmtKfAf7GWjrwR1g3r75PF8rVhUx+nncv+g==",
+        "icono": "https://i.postimg.cc/fT4HQq5q/ESPN.png"
+      },
+{
+        "name": "ESPN 1 OPC 3",
+        "uri": "9yJtGVYW4lejRdZ/SOhXrpeXqh1ja5RCF38dm93dpTvaXjKxpLy7yJ+vWxOlAej5DQivwR3UkYfbH09Kk3+35Q==",
         "icono": "https://i.postimg.cc/fT4HQq5q/ESPN.png"
       },
       {
